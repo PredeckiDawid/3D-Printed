@@ -1,0 +1,73 @@
+.alignnone {margin: 5px 20px 20px 0;}
+.aligncenter, div.aligncenter {display: block;margin: 5px auto 5px auto;}
+.alignright {float: right;margin: 5px 0 20px 20px;}
+.alignleft {float: left;margin: 5px 20px 20px 0;}
+a img.alignright {float: right;margin: 5px 0 20px 20px;}
+a img.alignnone {margin: 5px 20px 20px 0;}
+a img.alignleft {float: left;margin: 5px 20px 20px 0;}
+a img.aligncenter {display: block;margin-left: auto;margin-right: auto;}
+.wp-caption {max-width: 96%;padding: 5px 3px 10px;text-align: center;}
+.wp-caption.alignnone {margin: 5px 20px 20px 0;}
+.wp-caption.alignleft {margin: 5px 20px 20px 0;}
+.wp-caption.alignright {margin: 5px 0 20px 20px;}
+.wp-caption img {border: 0 none;height: auto;margin: 0;max-width: 98.5%;padding: 0;width: auto;}
+.wp-caption p.wp-caption-text {font-size: 11px;line-height: 17px;margin: 0;padding: 0 4px 5px;}
+.gallery-item {display: inline-block;text-align: left;vertical-align: top;width: 50%;}
+.gallery-item a, .gallery-item a:hover, .gallery-item a:focus {-webkit-box-shadow: none;box-shadow: none;background: none;display: inline-block;max-width: 100%;}
+.gallery-item a img {display: block;-webkit-transition: -webkit-filter .2s ease-in;transition: -webkit-filter .2s ease-in;transition: filter .2s ease-in;transition: filter .2s ease-in,-webkit-filter .2s ease-in;-webkit-backface-visibility: hidden;backface-visibility: hidden;}
+.gallery-item a:hover img, .gallery-item a:focus img {-webkit-filter: opacity(60%);filter: opacity(60%);}
+.gallery-caption {display: block;text-align: left;padding: 0 10px 0 0;margin-bottom: 0;}
+.gallery-columns-1 .gallery-item {max-width: 100%;}
+.gallery-columns-2 .gallery-item {max-width: 50%;}
+.gallery-columns-3 .gallery-item {max-width: 33%;}
+.gallery-columns-4 .gallery-item {max-width: 25%;}
+.gallery-columns-5 .gallery-item {max-width: 20%;}
+.gallery-columns-6 .gallery-item {max-width: 16.66%;}
+.gallery-columns-7 .gallery-item {max-width: 14.28%;}
+.gallery-columns-8 .gallery-item {max-width: 12.5%;}
+.gallery-columns-9 .gallery-item {max-width: 11.11%;}
+.gallery-columns-6 .gallery-caption, .gallery-columns-7 .gallery-caption, .gallery-columns-8 .gallery-caption, .gallery-columns-9 .gallery-caption {display: none;}
+.bypostauthor {font-weight: bold;}
+.screen-reader-text {clip: rect(1px,1px,1px,1px);position: absolute !important;height: 1px;width: 1px;overflow: hidden;}
+.screen-reader-text:focus {background-color: #f1f1f1;border-radius: 3px;box-shadow: 0 0 2px 2px rgba(0,0,0,.6);clip: auto !important;color: #21759b;display: block;font-size: 14px;font-size: .875rem;font-weight: bold;height: auto;left: 5px;line-height: normal;padding: 15px 23px 14px;text-decoration: none;top: 5px;width: auto;z-index: 100000;}
+#banner-section {position: relative;}
+.banner-single {background-position: center;background-repeat: no-repeat;background-size: cover;height: 80vh;}
+.banner-title {color: #fff;text-shadow: 3px 3px 5px #000;word-break: break-word;}
+.banner-style {position: absolute;left: 10%;top: 25%;max-width: 45%;width: auto;}
+.przycisk {margin-top: 20px;}
+.social-media {font-size: 50px;}
+.social-media .instagram {color: #cd486b !important;}
+.instagram {padding-right: 10px;}
+.social-media .instagram:hover {color: #bc2a8d !important;}
+#czym_sie_zajmujemy {position: relative;padding-bottom: 10vh;}
+.section_2-con {text-align: center;color: #fff;}
+.section_2-title {text-shadow: 3px 3px 5px #000;padding: 45px;}
+.text-section2 {text-shadow: 0em .17em .31em #000;word-wrap: break-word;color: #ccc;font-size: 18px;}
+.sec2 {margin-bottom: 1em;border: 1px solid #fff !important;text-align: center;color: #fff !important;cursor: pointer;background-position: center right;font-size: 17px;background-repeat: repeat;}
+.sec2 .card-header {padding: 45px !important;}
+.sec2 .card-header .btn {color: #fff !important;font-size: 20px;text-shadow: 0em .17em .31em #000;}
+.sec2 .card-header .btn:before {content: "+";font: normal normal normal 14px/1 FontAwesome;position: absolute;right: 15px;font-size: 20px;color: #000;background-color: #fff;border-radius: 50%;padding: 5px;text-shadow: none;}
+.sec2 .card-header .btn[aria-expanded="true"]:before {content: "";font: normal normal normal 14px/1 FontAwesome;position: absolute;right: 15px;font-size: 20px;color: #000;background-color: #fff;border-radius: 50%;padding: 5px;text-shadow: none;}
+#o_nas {position: relative;}
+.o-nas-con {padding-top: 20%;padding-bottom: 20%;color: rgba(255,255,255,.7);}
+.o_nas-title {padding-bottom: 25px;color: #fff !important;}
+.o-nas-con p {font-size: 20px;}
+.fil-sec {margin-bottom: 25px;padding-right: 30px;max-width: 100%;flex-direction: row;display: inline-flex !important;}
+.collapse-fil {text-align: center;padding-bottom: 30px;}
+.filament-con {text-align: center;padding: 25px;}
+.fil-sec .card-header .btn:before {content: "+";font: normal normal normal 14px/1 FontAwesome;position: absolute;right: 15px;font-size: 20px;color: #000;background-color: #fff;border-radius: 50%;padding: 5px;text-shadow: none;}
+.fil-sec .card-header .btn[aria-expanded="true"]:before {content: "";font: normal normal normal 14px/1 FontAwesome;position: absolute;right: 15px;font-size: 20px;color: #000;background-color: #fff;border-radius: 50%;padding: 5px;text-shadow: none;}
+.filament-title {color: #fff;margin-top: 30px;}
+.filament-con {color: #fff;text-shadow: 0em .17em .31em #000;}
+.filament-con img {margin-top: 25px;}
+.fil-sec .card-body {max-width: 200px;}
+#wycena {position: relative;padding-top: 10vh;background-repeat: no-repeat;background-size: cover;}
+.wycena-con {text-align: center;color: #fff;}
+.form-label {float: left;}
+.upload-con {border: 1px dashed #ccc;max-width: 50%;}
+.upload-con button {padding: 10px 12px;transition: all 1s;}
+.upload-con button:hover {border-radius: 10px;transform: scale(1.2);}
+.under-upload-con {text-align: left;}
+.under-upload-con input {float: left;margin-right: 10px;margin-top: 8px;}
+.btn-wycena {padding: 10px 12px;transition: all 1s;}
+.btn-wycena:hover {border-radius: 10px;transform: scale(1.2);}
